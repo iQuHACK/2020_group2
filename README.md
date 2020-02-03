@@ -1,3 +1,8 @@
+
+_Organizer's note:_ this project won the **industry choice** award in iQuHACK 2020.
+
+---
+
 # Variational Quantum Eigensolver for the Schwinger Model
 
 We:
